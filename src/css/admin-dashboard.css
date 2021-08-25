@@ -1,0 +1,71 @@
+
+.register-truck-form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 450px;
+    padding-left: 50px;
+    font-family: Krungthep;
+
+}
+
+.register-truck-header {
+    padding-top: 10px;
+    font-weight: bold;
+    padding-left: 130px;
+    font-family: Krungthep;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.truck-type-label {
+    padding-right: 5px;
+    padding-top: 4px;
+}
+
+.navbar-header {
+    font-weight: bold;
+    color: white;
+    font-family: Krungthep;
+    font-size: 1.8rem;
+    padding-left: 25px;
+}
+
+.admin-main-container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.admin-left-container {
+    padding-top: 75px;
+    padding-left: 20px;
+    width: 600px;
+    height: 400px;
+    float: left;
+    text-align: center;
+    font-family: Krungthep;
+    border-bottom: 6px dashed coral;
+
+}
+
+.admin-right-container {
+    margin-left: 620px;
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 200px;
+    border-left: 6px dashed coral;
+    border-bottom: 6px dashed coral;
+    height: 400px;
+}
+
+.table-label {
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-family: Krungthep;
+    font-size: 25px;
+}
+
+.vin-form {
+    padding-bottom: 20px;
+}

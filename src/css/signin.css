@@ -1,0 +1,29 @@
+.sign-in-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
+}
+
+
+.sign-in-page {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 250px;
+}
+
+.sign-in-button-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

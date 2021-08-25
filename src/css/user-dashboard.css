@@ -1,0 +1,74 @@
+
+.navbar-header {
+    font-weight: bold;
+    color: white;
+    font-family: Krungthep;
+    font-size: 1.8rem;
+    padding-left: 25px;
+}
+
+.reservations-div-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    border-bottom: 6px dashed coral;
+
+}
+
+.table-header {
+    text-align: center;
+    font-family: Krungthep;
+
+}
+
+.table-data {
+    text-align: center;
+    padding-right: 15px;
+
+}
+
+.table-title {
+    padding-top: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: Krungthep;
+}
+
+.book-reservation-div-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.reserve-truck-form {
+    text-align: center;
+    font-family: Krungthep;
+}
+
+.date-label {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.user-main-container {
+    text-align: center;
+}
+
+.available-reservations-div {
+    padding-top: 10px;
+}
+
+.user-main-container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.user-left-container {
+    width: 600px;
+    float: left;
+}
+
+.user-right-container {
+    margin-left: 620px;
+    padding-top: 40px;
+}
